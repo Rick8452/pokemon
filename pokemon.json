@@ -484,7 +484,10 @@
   "evolution_prev": [
     {"num": "017", "name": "Pidgeotto"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
     {
   "id": 19,
@@ -526,7 +529,10 @@
   "evolution_prev": [
     {"num": "019", "name": "Rattata"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
    {
   "id": 21,
@@ -568,7 +574,10 @@
   "evolution_prev": [
     {"num": "021", "name": "Spearow"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 23,
@@ -610,7 +619,10 @@
   "evolution_prev": [
     {"num": "023", "name": "Ekans"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 25,
@@ -652,7 +664,10 @@
   "evolution_prev": [
     {"num": "025", "name": "Pikachu"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 27,
@@ -694,7 +709,10 @@
   "evolution_prev": [
     {"num": "027", "name": "Sandshrew"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 29,
@@ -760,7 +778,10 @@
     {"num": "029", "name": "Nidoran♀"},
     {"num": "030", "name": "Nidorina"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 32,
@@ -804,7 +825,10 @@
     {"num": "173", "name": "Cleffa"},
     {"num": "035", "name": "Clefairy"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 34,
@@ -845,7 +869,10 @@
   "evolution_prev": [
     {"num": "034", "name": "Vulpix"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 36,
@@ -888,7 +915,10 @@
   "evolution_prev": [
     {"num": "036", "name": "Jigglypuff"}
   ],
-  "next_evolution": null
+ "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 38,
@@ -929,7 +959,10 @@
   "evolution_prev": [
     {"num": "038", "name": "Zubat"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 40,
@@ -1016,7 +1049,10 @@
   "evolution_prev": [
     {"num": "048", "name": "Venomoth"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 46,
@@ -1057,7 +1093,10 @@
   "evolution_prev": [
     {"num": "046", "name": "Diglett"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 52,
@@ -1098,7 +1137,10 @@
   "evolution_prev": [
     {"num": "052", "name": "Meowth"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 54,
@@ -1160,7 +1202,10 @@
   "evolution_prev": [
     {"num": "056", "name": "Mankey"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 58,
@@ -1201,7 +1246,10 @@
   "evolution_prev": [
     {"num": "058", "name": "Growlithe"}
   ],
-  "next_evolution": null
+  "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
 },
 {
   "id": 60,
