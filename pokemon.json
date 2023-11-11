@@ -311,5 +311,28 @@
       "num": "012",
       "name": "Butterfree"
     }]
+  }, {
+  "id": 11,
+  "num": "011",
+  "name": "Metapod",
+  "img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+  "type": ["Bug"],
+  "height": "0.71 m",
+  "weight": "9.9 kg",
+  "candy": "Metapod Candy",
+  "candy_count": 50,
+  "egg": "No en huevos",
+  "spawn_chance": 0.20,
+  "avg_spawns": 20,
+  "spawn_time": "11:30",
+  "multipliers": [3.55],
+  "weaknesses": ["Fire", "Flying", "Rock"],
+  "evolution_prev": [
+    {"num": "010", "name": "Caterpie"}
+  ],
+  "next_evolution": [
+    {"num": "012", "name": "Butterfree"}
+  ]
+}
   }]
 }
